@@ -1,6 +1,6 @@
 
 - 👀 Dados | Web | Fullstack
-- 🌱 Aprendendo Python...
+- 🌱 PYTHON | SQL
 - 📫 joaogfiguerido@gmail.com
   
 
