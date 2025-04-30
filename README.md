@@ -1,7 +1,7 @@
 
-- 👀 Dados | Web | Fullstack
-- 🌱 PYTHON | SQL
-- 📫 joaogfiguerido@gmail.com
+- Entusiasta em iA, modelos generativos e preditivos, matemática e Dados.
+-  PYTHON | SQL | ms fabric 
+
   
 
 <!---
