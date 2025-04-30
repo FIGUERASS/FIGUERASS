@@ -1,6 +1,6 @@
 
 - Entusiasta em iA, modelos generativos e preditivos, matemática e Dados.
--  PYTHON | SQL | ms fabric 
+-  PYTHON | SQL | 
 
   
 
