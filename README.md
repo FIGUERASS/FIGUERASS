@@ -1,6 +1,6 @@
 
-- Entusiasta em iA, modelos generativos e preditivos, matemática e Dados.
--  PYTHON | SQL | 
+- Meu nome é João e sou um entusiasta em iA, matemática, Data Science, llms e refinamento/ treinamento de modelos.
+- PYTHON | SQL | OLlama | RAG
 
   
 
